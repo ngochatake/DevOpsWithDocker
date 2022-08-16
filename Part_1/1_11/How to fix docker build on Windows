@@ -1,0 +1,2 @@
+There's a problem with building maven on windows 10. Please refer to this link to fix the issue before building the app 
+https://willi.am/blog/2016/08/11/docker-for-windows-dealing-with-windows-line-endings/
